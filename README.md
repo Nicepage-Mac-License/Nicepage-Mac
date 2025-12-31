@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://images.g2crowd.com/uploads/product/image/abcefefd1edd4d99ece7f5a255da2df6/nicepage.png" width="200" alt="Nicepage macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Nicepage">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Nicepage">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Nicepage macOS page">
  </a><br><br>
  <div align="center">
